@@ -1,4 +1,4 @@
-{
+###{
   "categorizeByGroup": false,
   "categoryOrder": ["Main Classes", "API Response Types", "API Models", "*"],
   "entryPoints": ["../src/index.ts"],
